@@ -1,8 +1,14 @@
 PHP-Puppet
 ===============
-PHP-Puppet will create for you a vanilla configured machine for using PHP.
-PHP-Pupet started as a fork from the PuPHPet project wich started by @jtreminio
+PHP-Puppet will create for you a vanilla configured machine for using PHP, by configuring simple yaml file!
 
+## Diffrences from PuPHPet
+PHP-Pupet started as a fork from the PuPHPet project wich started by @jtreminio
+PHP-Pupet have some more extra features such as:
+ - cronjobs support
+ - symfony support for nginx
+ - timezone support
+ - and more!
 
 ## Install
 1. Install ruby

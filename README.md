@@ -1,3 +1,9 @@
+PHP-Puppet
+===============
+PHP-Puppet will create for you a vanilla configured machine for using PHP.
+PHP-Pupet started as a fork from the PuPHPet project wich started by @jtreminio
+
+
 ## Install
 1. Install ruby
 2. Install Vagrant

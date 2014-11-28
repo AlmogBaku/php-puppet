@@ -1,0 +1,5 @@
+/.idea
+/puppet/.tmp
+/puppet/.librarian
+/puppet/Puppetfile.lock
+/puppet/modules
